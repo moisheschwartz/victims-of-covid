@@ -3,7 +3,7 @@
         {
             "id": "rec1dezfT4th2Thc1",
             "fields": {
-                "Name": "Mrs. Rivka Gottlieb",
+                "Link": "https://thechesedfund.com/gottlieb/kerenyesomim",
                 "Picture": [
                     {
                         "id": "att5ffKvlTg1trE7K",
@@ -30,8 +30,9 @@
                         }
                     }
                 ],
-                "Link": "https://thechesedfund.com/gottlieb/kerenyesomim",
-                "Total": 136238.4
+                "Total": 137482.72,
+                "Name": "Mrs. Rivka Gottlieb",
+                "Platform": "tcf"
             },
             "createdTime": "2020-04-17T13:37:36.000Z"
         },
@@ -65,7 +66,7 @@
                         }
                     }
                 ],
-                "Total": 239058.5,
+                "Total": 239438.5,
                 "Name": "Yitzchok Banash",
                 "Platform": "tcf"
             },
@@ -101,7 +102,7 @@
                         }
                     }
                 ],
-                "Total": 1010632,
+                "Total": 1011006,
                 "Name": "ר' ליפא פרידריך ז\"ל",
                 "Platform": "dryveup"
             },
@@ -137,7 +138,7 @@
                         }
                     }
                 ],
-                "Total": 281348,
+                "Total": 283215,
                 "Name": "הרב בנימין אבראמאוויטש ע\"ה ",
                 "Platform": "charidy"
             },
@@ -173,7 +174,7 @@
                         }
                     }
                 ],
-                "Total": 370102.04,
+                "Total": 370729.04,
                 "Name": "ר' מיכאל צבי פעטמאן ז''ל",
                 "Platform": "tcf"
             },
@@ -182,7 +183,7 @@
         {
             "id": "recSuDODEVYxaNxft",
             "fields": {
-                "Name": "Reb Alter Boruch Weiss ז\"ל",
+                "Link": "https://thechesedfund.com/weiszkerenyesomim/-",
                 "Picture": [
                     {
                         "id": "att2AgOwMp38aO1yF",
@@ -209,8 +210,8 @@
                         }
                     }
                 ],
-                "Link": "https://thechesedfund.com/weiszkerenyesomim/-",
-                "Total": 137848.26,
+                "Total": 141989.38,
+                "Name": "Reb Alter Boruch Weiss ז\"ל",
                 "Platform": "tcf"
             },
             "createdTime": "2020-04-17T13:39:32.000Z"
@@ -254,18 +255,35 @@
         {
             "id": "reckTWlwcClKfyoFK",
             "fields": {
-                "Name": "ר׳ יואל סאנדעל ע״ה",
+                "Link": "https://www.charidy.com/sandelfamilyfund/",
                 "Picture": [
                     {
                         "id": "attvbba5wuqhl3OqK",
                         "url": "https://dl.airtable.com/.attachments/87a631b9beae72e18f1ff30c81f70d19/516f27e8/image.png",
                         "filename": "image.png",
                         "size": 472510,
-                        "type": "image/png"
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/2b177c78045e00f28ef127c818241771/ddccffcd",
+                                "width": 69,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/271de447a02303b7168681987ea4cd1e/470d93f9",
+                                "width": 929,
+                                "height": 484
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/36965f17cc54173cd6d5a750762ae2c2/7de8baae",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
                     }
                 ],
-                "Link": "https://www.charidy.com/sandelfamilyfund/",
-                "Total": 177445,
+                "Total": 181540,
+                "Name": "ר׳ יואל סאנדעל ע״ה",
                 "Platform": "charidy"
             },
             "createdTime": "2020-04-17T13:41:53.000Z"
@@ -300,7 +318,7 @@
                         }
                     }
                 ],
-                "Total": 810130.34,
+                "Total": 811843.57,
                 "Name": "ר' ירחמיאל בייליס ז''ל",
                 "Platform": "tcf"
             },
