@@ -8,6 +8,14 @@
   box-sizing: border-box;
 }
 
+.aButton{
+  display: inline-block;
+  text-decoration: none;
+  color: #fff;
+  border: 1px solid;
+  padding: 8px;
+  margin-top: 4px;
+}
 .campaign{
   width: 400px;
   margin: 24px; 

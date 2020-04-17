@@ -13,7 +13,7 @@ export default function CampaignLink(props) {
             <FaIcon>
                 <FaLink />
             </FaIcon>
-            <a href={link}>{link}</a>
+            <a target="_blank" href={link}>{link}</a>
         </div>
     )
 }
