@@ -145,6 +145,42 @@
             "createdTime": "2020-04-13T02:33:42.000Z"
         },
         {
+            "id": "recSasTqpm4YuaYgP",
+            "fields": {
+                "Link": "https://thechesedfund.com/eliezerrosenberg89/yisroelmenachembendovidtzvirosenberg",
+                "Picture": [
+                    {
+                        "id": "att5NuTuMyCsvpwYY",
+                        "url": "https://dl.airtable.com/.attachments/f6ea5ff12559683d67ee56bd7ec647ab/dd8ca77a/image.png",
+                        "filename": "image.png",
+                        "size": 1979588,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/7c45b893617da8af19031d367d68cac4/e7cd042a",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/92e6284a293c433f059215d2d1ffccda/95554360",
+                                "width": 512,
+                                "height": 512
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/2cd85c1bb7794fb88686f4e7471173c9/e593c673",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "Name": "Yisroel Menachem Rosenberg",
+                "Total": 50747.67,
+                "Platform": "tcf"
+            },
+            "createdTime": "2020-04-17T17:47:45.000Z"
+        },
+        {
             "id": "recSrQNCm2ZuV14GI",
             "fields": {
                 "Link": "https://thechesedfund.com/fettmanfund/coronatragedy",
@@ -251,6 +287,61 @@
                 "Platform": "tcf"
             },
             "createdTime": "2020-04-17T12:44:16.000Z"
+        },
+        {
+            "id": "recdjpiLynLiNdC7X",
+            "fields": {
+                "Link": "https://thechesedfund.com/cohenfamily/fund",
+                "Platform": "tcf",
+                "Total": 97839.27,
+                "Name": "Avrohom Yitzchok Cohen",
+                "Picture": [
+                    {
+                        "id": "attuLZKmiTWXXfdji",
+                        "url": "https://dl.airtable.com/.attachments/09d69c83b562220ada36c070d3810ed1/32d92362/image.png",
+                        "filename": "image.png",
+                        "size": 1060877,
+                        "type": "image/png"
+                    }
+                ]
+            },
+            "createdTime": "2020-04-17T17:51:23.000Z"
+        },
+        {
+            "id": "reciuZZdN1oRdMqcR",
+            "fields": {
+                "Name": "Rabbi Yitzchok Steinberg zt”l",
+                "Picture": [
+                    {
+                        "id": "atttAdbdD1AQeymrK",
+                        "url": "https://dl.airtable.com/.attachments/dc9c4c80ca12f9005eec9b84f521f459/3a6ce932/image.png",
+                        "filename": "image.png",
+                        "size": 1014409,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/ff7c2baa0769c5389074c3f8d360e65d/76a53fda",
+                                "width": 64,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/edad61b5f16832ab5de317ad15c1af6a/4fac98bc",
+                                "width": 904,
+                                "height": 512
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/beaa91433d2c721470836a41f1d120bc/69ae0609",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "Link": "https://thechesedfund.com/steinbergfamily?team=YWNHOME0406",
+                "Total": 437734.32,
+                "Platform": "tcf"
+            },
+            "createdTime": "2020-04-17T17:48:40.000Z"
         },
         {
             "id": "reckTWlwcClKfyoFK",
