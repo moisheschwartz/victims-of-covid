@@ -13,7 +13,7 @@ export default function CampaignsTotal(props) {
 
     return (
         <div style={{ textAlign: "center", fontSize: "30px", margin: "23px 0 " }}>
-            Together We Raised:  <br /><span style={{ fontWeight: "bold", fontSize: "65px", color: "teal" }}>{formatter.format(total)}</span>
+            Together We Raised:  <br /><span className={"totalRaised"}>{formatter.format(total)}</span>
         </div>
     )
 }
