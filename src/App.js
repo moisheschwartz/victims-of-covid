@@ -1,24 +1,19 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from 'react';
+import campaignList from './data/campaignList'
 
+import Campaings from './components/campaigns/campaigns'
+import CampaingsTotal from './components/campaigns/campaingsTotal'
+import AppBar from './components/appBar/appBar';
 function App() {
+  const [searchKeyword, setSearchKeyword] = useState("");
+  const handleSearch = (e) => {
+    setSearchKeyword(e.target.value)
+  }
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <AppBar />
+      <CampaingsTotal list={campaignList} />
+      <Campaings handleSearch={handleSearch} list={campaignList} searchKeyword={searchKeyword} />
     </div>
   );
 }

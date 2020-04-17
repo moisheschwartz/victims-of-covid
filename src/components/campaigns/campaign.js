@@ -1,0 +1,22 @@
+import React from 'react'
+import Campaigns from './campaigns';
+import CampaignImage from './campaignDetails/campaignImage';
+import CampaignName from './campaignDetails/campaignName';
+import CampaignTotal from './campaignDetails/campaignTotal';
+import CampaignLink from './campaignDetails/campaignLink';
+export default function Campaign(props) {
+
+    const { campaign } = props;
+    return (
+        <div className="campaign">
+            <CampaignImage src={campaign.photo} />
+            <div style={{ padding: "12px" }}>
+                <CampaignName name={campaign.name} />
+                <CampaignTotal total={campaign.total} />
+                <CampaignLink link={campaign.link} />
+            </div>
+
+
+        </div>
+    )
+}

@@ -1,0 +1,220 @@
+{
+    "records": [
+        {
+            "id": "rec2MMWxO58vB4UFI",
+            "fields": {
+                "Name": "Yitzchok Banash",
+                "Picture": [
+                    {
+                        "id": "att75pLjVI6mefs4O",
+                        "url": "https://dl.airtable.com/.attachments/9852f0c63d05796ee67d3458f343edf1/3823424d/image.png",
+                        "filename": "image.png",
+                        "size": 1941459,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/a36c388770ed3bd6c5aa1e06b9dce971/976d0a2f",
+                                "width": 28,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/3fac205b10f6396b736ac1542b1b277a/70f3e988",
+                                "width": 512,
+                                "height": 663
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/c2c245c79f2414ab08fedac18808ee2c/77d9325b",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "Link": "https://thechesedfund.com/banashfund/help",
+                "Total": 239058.5,
+                "Platform": "tcf"
+            },
+            "createdTime": "2020-04-17T12:45:24.000Z"
+        },
+        {
+            "id": "rec5umdg2snPXyM1E",
+            "fields": {
+                "Name": "ר' ליפא פרידריך ז\"ל",
+                "Picture": [
+                    {
+                        "id": "attdHaUPnxcKfzbGF",
+                        "url": "https://dl.airtable.com/.attachments/ae8214c3a9b19b162c338f4f198bd0b4/bfc41c5e/image.png",
+                        "filename": "image.png",
+                        "size": 608167,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/43add1265d558d9d40a86652d6005d19/cebf7239",
+                                "width": 64,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/a66267db1fd0f0e50009b504f316c287/c3dd213b",
+                                "width": 905,
+                                "height": 512
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/4d00f761a5fd69c657c3e1beb62952cc/e703d3c1",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "Link": "https://www.dryveup.com/friedrich/",
+                "Total": 1010632,
+                "Platform": "dryveup"
+            },
+            "createdTime": "2020-04-17T12:46:38.000Z"
+        },
+        {
+            "id": "recMbIoGpz0rKq0Wn",
+            "fields": {
+                "Name": "הרב בנימין אבראמאוויטש ע\"ה ",
+                "Picture": [
+                    {
+                        "id": "attZiMCs6uhSDzjjs",
+                        "url": "https://dl.airtable.com/.attachments/829d72f234e9f56e07a4723f4df34c55/4c266eac/image.png",
+                        "filename": "image.png",
+                        "size": 951653,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/5fb23f2e77f46ab0a5895479959ad336/25793e0d",
+                                "width": 88,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/704b525e7e3d38a8ad41b53021b3bffc/4ed41934",
+                                "width": 1247,
+                                "height": 512
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/c8260cb01e901aa534410974007e3804/30da8e59",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "Link": "https://www.charidy.com/coronayesomim",
+                "Total": 281348,
+                "Platform": "charidy"
+            },
+            "createdTime": "2020-04-13T02:33:42.000Z"
+        },
+        {
+            "id": "recSrQNCm2ZuV14GI",
+            "fields": {
+                "Name": "ר' מיכאל צבי פעטמאן ז''ל",
+                "Picture": [
+                    {
+                        "id": "attXcSszEHXk0OCqy",
+                        "url": "https://dl.airtable.com/.attachments/d9c25a558ea51c4247e8d4003e535519/212c41c4/image.png",
+                        "filename": "image.png",
+                        "size": 926453,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/0fe2071d438f9c9e87c60501ec5edc78/491e6477",
+                                "width": 46,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/502821fe8a046c69a2b5a5393960c403/02c6afb7",
+                                "width": 651,
+                                "height": 512
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/b2fbce562ad7a7870a299bdf75298b23/afe8f369",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "Link": "https://thechesedfund.com/fettmanfund/coronatragedy",
+                "Total": 370102.04,
+                "Platform": "tcf"
+            },
+            "createdTime": "2020-04-17T12:42:28.000Z"
+        },
+        {
+            "id": "recXGzz7xqlpkJj3t",
+            "fields": {
+                "Name": "Zevi Halberstam",
+                "Picture": [
+                    {
+                        "id": "attEtp5BnHKdxvGry",
+                        "url": "https://dl.airtable.com/.attachments/643d27b98ae68c674b1fe6db80446be1/b5a54788/image.png",
+                        "filename": "image.png",
+                        "size": 565393,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/96105e657e8b1629ad2bbbe7a33029b9/545aac9c",
+                                "width": 71,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/61db1f9be7482a432b1ab420875f8da9/a2a0f0a8",
+                                "width": 1009,
+                                "height": 512
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/9fce9bbe52dd791fcf68a7287ab84fea/7efbe6ec",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "Link": "https://thechesedfund.com/zevisfund/emergencycampaign",
+                "Total": 469979.9,
+                "Platform": "tcf"
+            },
+            "createdTime": "2020-04-17T12:44:16.000Z"
+        },
+        {
+            "id": "recvEiWrXy7yKxXlY",
+            "fields": {
+                "Name": "ר' ירחמיאל בייליס ז''ל",
+                "Picture": [
+                    {
+                        "id": "attOZwFjgHOMzoskp",
+                        "url": "https://dl.airtable.com/.attachments/6c07243fff4fb88d2c8bbad3567501e7/13e73dc8/image.png",
+                        "filename": "image.png",
+                        "size": 660361,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/d0e905f4b435cf43ffd7596e8101cd74/c86ef44f",
+                                "width": 66,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/6b6925913173137ce9fdead2c20e2116/84a3191b",
+                                "width": 941,
+                                "height": 512
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/46d1bd14e0cd210090eea1183bca4cb1/df5324f0",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "Link": "https://thechesedfund.com/beilesfamilyfund/coronatragedy",
+                "Total": 810130.34,
+                "Platform": "tcf"
+            },
+            "createdTime": "2020-04-17T12:43:36.000Z"
+        }
+    ]
+}
