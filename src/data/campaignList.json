@@ -174,8 +174,8 @@
                         }
                     }
                 ],
-                "Name": "Yisroel Menachem Rosenberg",
                 "Total": 50747.67,
+                "Name": "Yisroel Menachem Rosenberg",
                 "Platform": "tcf"
             },
             "createdTime": "2020-04-17T17:47:45.000Z"
@@ -292,25 +292,42 @@
             "id": "recdjpiLynLiNdC7X",
             "fields": {
                 "Link": "https://thechesedfund.com/cohenfamily/fund",
-                "Platform": "tcf",
-                "Total": 97839.27,
-                "Name": "Avrohom Yitzchok Cohen",
                 "Picture": [
                     {
                         "id": "attuLZKmiTWXXfdji",
                         "url": "https://dl.airtable.com/.attachments/09d69c83b562220ada36c070d3810ed1/32d92362/image.png",
                         "filename": "image.png",
                         "size": 1060877,
-                        "type": "image/png"
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/fb4f446554681c30da1339f2985d3725/4e23d86f",
+                                "width": 30,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/9279d36fe18e868610f805350e2a2c9a/2878c795",
+                                "width": 512,
+                                "height": 605
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/eaab2ce82c0992df6ef788755f702b4b/ad62559b",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
                     }
-                ]
+                ],
+                "Total": 97839.27,
+                "Name": "Avrohom Yitzchok Cohen",
+                "Platform": "tcf"
             },
             "createdTime": "2020-04-17T17:51:23.000Z"
         },
         {
             "id": "reciuZZdN1oRdMqcR",
             "fields": {
-                "Name": "Rabbi Yitzchok Steinberg zt”l",
+                "Link": "https://thechesedfund.com/steinbergfamily?team=YWNHOME0406",
                 "Picture": [
                     {
                         "id": "atttAdbdD1AQeymrK",
@@ -337,8 +354,8 @@
                         }
                     }
                 ],
-                "Link": "https://thechesedfund.com/steinbergfamily?team=YWNHOME0406",
                 "Total": 437734.32,
+                "Name": "Rabbi Yitzchok Steinberg zt”l",
                 "Platform": "tcf"
             },
             "createdTime": "2020-04-17T17:48:40.000Z"
@@ -378,6 +395,42 @@
                 "Platform": "charidy"
             },
             "createdTime": "2020-04-17T13:41:53.000Z"
+        },
+        {
+            "id": "recuPXxvk9y2OVCh2",
+            "fields": {
+                "Name": "מוטי קופמאן",
+                "Picture": [
+                    {
+                        "id": "attWwwgB173E4soQW",
+                        "url": "https://dl.airtable.com/.attachments/87476bc1e1951afd5c22b3a0a9e5ecae/4d9f0401/image.png",
+                        "filename": "image.png",
+                        "size": 1929780,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/7b17b87ffbd9ebc717c56c543078c9fa/6f0db27c",
+                                "width": 88,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/b6d60ed8c0a26a2009ee66632ab0b6c4/ce551442",
+                                "width": 1254,
+                                "height": 512
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/abd93b5fc1ae0de4312a1ebad8a5d518/c46a0b02",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "Link": "https://www.charidy.com/Kopman",
+                "Total": 286301,
+                "Platform": "tcf"
+            },
+            "createdTime": "2020-04-17T20:59:33.000Z"
         },
         {
             "id": "recvEiWrXy7yKxXlY",
