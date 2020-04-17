@@ -14,6 +14,7 @@ export default function CampaignsTotal(props) {
     return (
         <div style={{ textAlign: "center", fontSize: "30px", margin: "23px 0 " }}>
             Together We Raised:  <br /><span className={"totalRaised"}>{formatter.format(total)}</span>
+            <br />!מי כעמך ישראל
         </div>
     )
 }
