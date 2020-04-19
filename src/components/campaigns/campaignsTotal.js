@@ -27,7 +27,7 @@ export default function CampaignsTotal(props) {
                 prefix="$"
             />}</span>
             <br />
-            <b style={{ color: "teal", fontSize: "30px" }}>{totalDonations.toLocaleString()} Donors!</b>
+            <b style={{ color: "teal", fontSize: "30px" }}>{totalDonations.toLocaleString()} Donations!</b>
             <br />!מי כעמך ישראל
         </div>
     )
