@@ -30,7 +30,7 @@
                         }
                     }
                 ],
-                "Total": 137482.72,
+                "Total": 141644.24,
                 "Name": "Mrs. Rivka Gottlieb",
                 "Platform": "tcf"
             },
@@ -66,7 +66,7 @@
                         }
                     }
                 ],
-                "Total": 239438.5,
+                "Total": 240352.5,
                 "Name": "Yitzchok Banash",
                 "Platform": "tcf"
             },
@@ -102,7 +102,7 @@
                         }
                     }
                 ],
-                "Total": 1011006,
+                "Total": 1112711,
                 "Name": "ר' ליפא פרידריך ז\"ל",
                 "Platform": "dryveup"
             },
@@ -138,7 +138,7 @@
                         }
                     }
                 ],
-                "Total": 283215,
+                "Total": 284347,
                 "Name": "הרב בנימין אבראמאוויטש ע\"ה ",
                 "Platform": "charidy"
             },
@@ -174,11 +174,47 @@
                         }
                     }
                 ],
-                "Total": 50747.67,
+                "Total": 53093.67,
                 "Name": "Yisroel Menachem Rosenberg",
                 "Platform": "tcf"
             },
             "createdTime": "2020-04-17T17:47:45.000Z"
+        },
+        {
+            "id": "recSjroBQHtdK9Amj",
+            "fields": {
+                "Name": "Aron Hersh Kleinman",
+                "Picture": [
+                    {
+                        "id": "attL8MoafnADuNmEO",
+                        "url": "https://dl.airtable.com/.attachments/d04502661ac8506fe108cafdb28ae83e/d3ba0ee3/image.png",
+                        "filename": "image.png",
+                        "size": 1624861,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/3aea32d2c2c2138a09bdee142f6650e5/12187e19",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/66ebf450e477db17c154804cd81333c4/9e1a6900",
+                                "width": 514,
+                                "height": 512
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/46e82c5ed8d1ffdcf064480d684f8b2d/c32c6de2",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "Link": "https://thechesedfund.com/kleinman/corona-tragedy",
+                "Total": 60477.03,
+                "Platform": "tcf"
+            },
+            "createdTime": "2020-04-19T02:14:40.000Z"
         },
         {
             "id": "recSrQNCm2ZuV14GI",
@@ -210,7 +246,7 @@
                         }
                     }
                 ],
-                "Total": 370729.04,
+                "Total": 374904.04,
                 "Name": "ר' מיכאל צבי פעטמאן ז''ל",
                 "Platform": "tcf"
             },
@@ -246,11 +282,47 @@
                         }
                     }
                 ],
-                "Total": 141989.38,
+                "Total": 152914.71,
                 "Name": "Reb Alter Boruch Weiss ז\"ל",
                 "Platform": "tcf"
             },
             "createdTime": "2020-04-17T13:39:32.000Z"
+        },
+        {
+            "id": "recVtGzOPxsbSESmz",
+            "fields": {
+                "Picture": [
+                    {
+                        "id": "attmQQiGNmYMgJ6wD",
+                        "url": "https://dl.airtable.com/.attachments/dd75ac512ff941cee0982a1bae18c9c6/b19fb14a/image.png",
+                        "filename": "image.png",
+                        "size": 844322,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/4ec4ae8d7f5e411f246c1b64c8b74de0/21e6e916",
+                                "width": 20,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/8896f5a99703dd29a1e62b50e1624aa3/80a42bf3",
+                                "width": 512,
+                                "height": 914
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/9f2bf32401aa3ca79815a1f2f24c41f8/12c34bf1",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "Name": "אליעזר האלברעכט",
+                "Link": "https://thechesedfund.com/halbrecht/familyfund",
+                "Total": 514162.29,
+                "Platform": "tcf"
+            },
+            "createdTime": "2020-04-19T02:18:04.000Z"
         },
         {
             "id": "recXGzz7xqlpkJj3t",
@@ -282,7 +354,7 @@
                         }
                     }
                 ],
-                "Total": 469979.9,
+                "Total": 470343.9,
                 "Name": "Zevi Halberstam",
                 "Platform": "tcf"
             },
@@ -318,7 +390,7 @@
                         }
                     }
                 ],
-                "Total": 97839.27,
+                "Total": 191884.63,
                 "Name": "Avrohom Yitzchok Cohen",
                 "Platform": "tcf"
             },
@@ -354,7 +426,7 @@
                         }
                     }
                 ],
-                "Total": 437734.32,
+                "Total": 440218.32,
                 "Name": "Rabbi Yitzchok Steinberg zt”l",
                 "Platform": "tcf"
             },
@@ -390,16 +462,53 @@
                         }
                     }
                 ],
-                "Total": 181540,
+                "Total": 192323,
                 "Name": "ר׳ יואל סאנדעל ע״ה",
                 "Platform": "charidy"
             },
             "createdTime": "2020-04-17T13:41:53.000Z"
         },
         {
+            "id": "rectOKfV9ULDNuv6y",
+            "fields": {
+                "Name": "R’ Zisha Ritterman",
+                "Picture": [
+                    {
+                        "id": "attjZW6qgz3rlmWUb",
+                        "url": "https://dl.airtable.com/.attachments/b3f5db95faa3373902ef5b3c6d066c75/a4d4453a/19499A1A-E1D5-4F5B-B9FF-8C49EA1729C1.jpeg",
+                        "filename": "19499A1A-E1D5-4F5B-B9FF-8C49EA1729C1.jpeg",
+                        "size": 167881,
+                        "type": "image/jpeg",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/ab6e05415be372de5c8096c3f07fcd3c/fa7a4fad",
+                                "width": 34,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/f546a0b9c6cccd42cd4d57e0e9c73ac3/e11900c3",
+                                "width": 500,
+                                "height": 532
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/16c2b465a0776a36fc8e56dbdfc2947d/2796820e",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "Link": "https://thechesedfund.com/zisharitterman/familyfund",
+                "Submitted By": "jgreen840@gmail.com",
+                "Platform": "tcf",
+                "Total": 71328.8
+            },
+            "createdTime": "2020-04-19T02:13:40.000Z"
+        },
+        {
             "id": "recuPXxvk9y2OVCh2",
             "fields": {
-                "Name": "מוטי קופמאן",
+                "Link": "https://www.charidy.com/Kopman",
                 "Picture": [
                     {
                         "id": "attWwwgB173E4soQW",
@@ -426,8 +535,8 @@
                         }
                     }
                 ],
-                "Link": "https://www.charidy.com/Kopman",
-                "Total": 286301,
+                "Total": 291109,
+                "Name": "מוטי קופמאן",
                 "Platform": "tcf"
             },
             "createdTime": "2020-04-17T20:59:33.000Z"
@@ -462,7 +571,7 @@
                         }
                     }
                 ],
-                "Total": 811843.57,
+                "Total": 813647.5,
                 "Name": "ר' ירחמיאל בייליס ז''ל",
                 "Platform": "tcf"
             },
