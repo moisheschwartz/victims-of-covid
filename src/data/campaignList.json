@@ -1,9 +1,52 @@
 {
     "records": [
         {
+            "id": "rec0czTnE5evJXH6x",
+            "fields": {},
+            "createdTime": "2020-04-19T07:23:38.000Z"
+        },
+        {
+            "id": "rec0z9W1Z4MuDy92u",
+            "fields": {
+                "Name": "Ari Weichbrod",
+                "Picture": [
+                    {
+                        "id": "atthnQCb89lxWmI7T",
+                        "url": "https://dl.airtable.com/.attachments/4751e7c04664e14556b67894a8102200/97bf61cc/weichbrod-1586663688385.jpg",
+                        "filename": "weichbrod-1586663688385.jpg",
+                        "size": 463480,
+                        "type": "image/jpeg",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/557f2ac0f5edefffd61de1501ae889b6/c7589b2f",
+                                "width": 38,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/5f5e07afbd5427dbcbf55ed03e5f4d42/5b0adfb4",
+                                "width": 536,
+                                "height": 512
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/55d1d6d2c579b9f3a659cfbffe04d2da/951dff64",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "Link": "https://thechesedfund.com/weichbrod/family",
+                "Submitted By": "yaakov@lakewoodshopper.com",
+                "Platform": "tcf",
+                "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/weichbrod/family",
+                "Total": 184764.515269
+            },
+            "createdTime": "2020-04-19T06:52:52.000Z"
+        },
+        {
             "id": "rec1dezfT4th2Thc1",
             "fields": {
-                "Link": "https://thechesedfund.com/gottlieb/kerenyesomim",
+                "Name": "Mrs. Rivka Gottlieb",
                 "Picture": [
                     {
                         "id": "att5ffKvlTg1trE7K",
@@ -30,8 +73,8 @@
                         }
                     }
                 ],
-                "Total": 143629.244938,
-                "Name": "Mrs. Rivka Gottlieb",
+                "Link": "https://thechesedfund.com/gottlieb/kerenyesomim",
+                "Total": 143955.244938,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/gottlieb/kerenyesomim?&per_page=12"
             },
@@ -40,7 +83,7 @@
         {
             "id": "rec2MMWxO58vB4UFI",
             "fields": {
-                "Link": "https://thechesedfund.com/banashfund/help",
+                "Name": "Yitzchok Banash",
                 "Picture": [
                     {
                         "id": "att75pLjVI6mefs4O",
@@ -67,17 +110,55 @@
                         }
                     }
                 ],
-                "Total": 240946.503317,
-                "Name": "Yitzchok Banash",
+                "Link": "https://thechesedfund.com/banashfund/help",
+                "Total": 241125.503317,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/banashfund/help"
             },
             "createdTime": "2020-04-17T12:45:24.000Z"
         },
         {
+            "id": "rec31LShUMoeutL0A",
+            "fields": {
+                "Name": "Yisroel Moshe baum",
+                "Picture": [
+                    {
+                        "id": "attComXsB73zYhId5",
+                        "url": "https://dl.airtable.com/.attachments/36fcd0c722943379f5ae48fcf41abffb/cbcfe5a9/baumfamilyemergencyfund-1586809765325.png",
+                        "filename": "baumfamilyemergencyfund-1586809765325.png",
+                        "size": 78395,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/2ae132e132a390f9de0cb3b526e13b56/df0d9192",
+                                "width": 29,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/33d826d347e26c2bcf10ce4f8300e70b/31903be4",
+                                "width": 233,
+                                "height": 287
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/65c733750fbaf73917ac23ed4ef9f02d/ca7ec04b",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "Link": "https://thechesedfund.com/baumfamilyemergencyfund/coronatragedy",
+                "Submitted By": "muttymoseson@gmail.com",
+                "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/baumfamilyemergencyfund/coronatragedy",
+                "Platform": "tcf",
+                "Total": 12102.0336364
+            },
+            "createdTime": "2020-04-19T06:53:28.000Z"
+        },
+        {
             "id": "rec5umdg2snPXyM1E",
             "fields": {
-                "Link": "https://www.dryveup.com/friedrich/",
+                "Name": "ר' ליפא פרידריך ז\"ל",
                 "Picture": [
                     {
                         "id": "attdHaUPnxcKfzbGF",
@@ -104,15 +185,53 @@
                         }
                     }
                 ],
-                "Total": 1012711,
-                "Name": "ר' ליפא פרידריך ז\"ל",
+                "Link": "https://www.dryveup.com/friedrich/",
+                "Total": 1012868,
                 "Platform": "dryveup"
             },
             "createdTime": "2020-04-17T12:46:38.000Z"
         },
         {
+            "id": "rec7SDbHPJfiOxsAM",
+            "fields": {
+                "Name": "Rebbetzin Toiba Jungreis",
+                "Picture": [
+                    {
+                        "id": "attRiZzcDQpeEdcsf",
+                        "url": "https://dl.airtable.com/.attachments/afe01dd915f6ad5694366e6830e88593/feebf409/image.png",
+                        "filename": "image.png",
+                        "size": 1541054,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/0f2ef193d4f5cfdea38aea120feb5be1/e8a7a417",
+                                "width": 28,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/0760331bf91baa521312e1d5865dcf79/b7e5af05",
+                                "width": 512,
+                                "height": 663
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/4587bd91209ecbc46786906f4cd2d540/f901651f",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "Link": "https://thechesedfund.com/jungreis/fund",
+                "Platform": "tcf",
+                "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/jungreis/fund",
+                "Total": 15468.5671253
+            },
+            "createdTime": "2020-04-19T06:44:59.000Z"
+        },
+        {
             "id": "recAYT1FROicgLuMY",
             "fields": {
+                "Name": "Rav Nachum Cooper A\"H",
                 "Picture": [
                     {
                         "id": "att7eqBEi65MrdDy9",
@@ -139,11 +258,10 @@
                         }
                     }
                 ],
-                "Name": "Rav Nachum Cooper A\"H",
-                "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/chasdeilev/tearsforravnachumcooperah",
                 "Link": "https://thechesedfund.com/chasdeilev/tearsforravnachumcooperah",
+                "Total": 286865.957642,
                 "Platform": "tcf",
-                "Total": 286359.957642
+                "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/chasdeilev/tearsforravnachumcooperah"
             },
             "createdTime": "2020-04-19T05:17:32.000Z"
         },
@@ -178,16 +296,52 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/berg/family",
+                "Total": 284347.117747,
                 "Platform": "tcf",
-                "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/berg/family",
-                "Total": 283870.937747
+                "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/berg/family"
             },
             "createdTime": "2020-04-19T05:18:03.000Z"
         },
         {
+            "id": "recKjjsnitDd8sXR1",
+            "fields": {
+                "Link": "https://www.dryveup.com/gutman/",
+                "Picture": [
+                    {
+                        "id": "attP5l8EygwEMfxdx",
+                        "url": "https://dl.airtable.com/.attachments/26a59b4c0d183ced067ad08e5ec867c1/3e15cd50/image.png",
+                        "filename": "image.png",
+                        "size": 473465,
+                        "type": "image/png",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/3a55698f362566baa9a647424c610fcd/52d14f56",
+                                "width": 23,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/7d5032533ccba5f43dd1e7ef050bdf9a/11ec093e",
+                                "width": 512,
+                                "height": 816
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/71c48c6be4e853ec9a63dcf46be3665c/33bb625e",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "Name": "מרדכי מענדל גוטמאן",
+                "Platform": "dryveup",
+                "Total": 218104
+            },
+            "createdTime": "2020-04-19T06:44:55.000Z"
+        },
+        {
             "id": "recMbIoGpz0rKq0Wn",
             "fields": {
-                "Link": "https://www.charidy.com/coronayesomim",
+                "Name": "הרב בנימין אבראמאוויטש ע\"ה ",
                 "Picture": [
                     {
                         "id": "attZiMCs6uhSDzjjs",
@@ -214,16 +368,169 @@
                         }
                     }
                 ],
-                "Total": 284347,
-                "Name": "הרב בנימין אבראמאוויטש ע\"ה ",
-                "Platform": "charidy"
+                "Link": "https://www.charidy.com/coronayesomim",
+                "Total": 284440,
+                "Platform": "charidy",
+                "DataLink": "https://api.charidy.com/api/v1/campaign/8348?extend[]=converted_currency"
             },
             "createdTime": "2020-04-13T02:33:42.000Z"
         },
         {
+            "id": "recOHqHq4SVrjvujo",
+            "fields": {
+                "Name": "R' Asher Anshel Issac",
+                "Link": "https://www.charidy.com/isaacfamilyfund",
+                "Submitted By": "bucheryuker@gmail.com",
+                "Platform": "charidy",
+                "Picture": [
+                    {
+                        "id": "att7rT2P7d9RVU5er",
+                        "url": "https://dl.airtable.com/.attachments/1ce72a374f38d75907150b710ac77920/4771919f/D095CAA4-72BB-4BEA-B9DE-2A7840FDE74A.jpeg",
+                        "filename": "D095CAA4-72BB-4BEA-B9DE-2A7840FDE74A.jpeg",
+                        "size": 106554,
+                        "type": "image/jpeg",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/5c9703076c6ec5877c032c2ea1118260/34a13c15",
+                                "width": 31,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/a2a5816baedf8a14a56359b7118bb539/8ab085b4",
+                                "width": 512,
+                                "height": 587
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/b696f1183e78e4da6b56f3bb5e39b919/470d7387",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "DataLink": "https://api.charidy.com/api/v1/campaign/8428?extend[]=converted_currency",
+                "Total": 53998
+            },
+            "createdTime": "2020-04-19T06:47:32.000Z"
+        },
+        {
+            "id": "recPnNvPMhpy2Pb7A",
+            "fields": {
+                "Name": "Rabbi Shalom Gurewicz",
+                "Picture": [
+                    {
+                        "id": "attU7FvIVmqX4X1NL",
+                        "url": "https://dl.airtable.com/.attachments/df3041bef56cd44cb8db47c66c52536b/30064d82/Screenshot_20200404-222010_WhatsApp.jpg",
+                        "filename": "Screenshot_20200404-222010_WhatsApp.jpg",
+                        "size": 682188,
+                        "type": "image/jpeg",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/911ad1057cc9658a4e2505fa1d196b01/310a3838",
+                                "width": 18,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/7ecc4b9bb32833f4981d3026366fbfc8/7d6bdc81",
+                                "width": 512,
+                                "height": 1052
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/81278037b63d69a9b990a8f72c340ec9/e8077047",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "Link": "https://charidy.com/gurewicz/gluck",
+                "Submitted By": "glickmartin@gmail.com",
+                "Platform": "charidy",
+                "DataLink": "https://api.charidy.com/api/v1/campaign/8406?extend[]=converted_currency",
+                "Total": 97146
+            },
+            "createdTime": "2020-04-19T06:50:17.000Z"
+        },
+        {
+            "id": "recQRmADb4iYFG9aO",
+            "fields": {
+                "Name": "R’ Zalman Hillel Fendel",
+                "Picture": [
+                    {
+                        "id": "attXAUPWGjbWVbin1",
+                        "url": "https://dl.airtable.com/.attachments/b3e8c978f9c39946ab9cbab188dc4cde/5b683366/C2949B15-2C2E-4859-BD28-7863C79548DB.jpeg",
+                        "filename": "C2949B15-2C2E-4859-BD28-7863C79548DB.jpeg",
+                        "size": 147585,
+                        "type": "image/jpeg",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/153e100fe5feea497cd04799cb579a29/7cbf7a01",
+                                "width": 17,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/9f48fb555e406dccfdcfe4a67ae054fa/29aa2010",
+                                "width": 512,
+                                "height": 1109
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/b540e64ef74474a8fbc911085f308542/6a8262bf",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "Link": "https://thechesedfund.com/fendel/family",
+                "Submitted By": "jacobrottenberg@yahoo.com",
+                "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/fendel/family",
+                "Platform": "tcf",
+                "Total": 396546.435316
+            },
+            "createdTime": "2020-04-19T06:55:54.000Z"
+        },
+        {
+            "id": "recRBXateohvAwtHM",
+            "fields": {
+                "Name": "Mrs. Nechama Hass",
+                "Link": "https://thechesedfund.com/hass/familyfund",
+                "Submitted By": "yaakov@lakewoodshopper.com",
+                "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/hass/familyfund",
+                "Platform": "tcf",
+                "Picture": [
+                    {
+                        "id": "attE8sVEmF4YtJ6J1",
+                        "url": "https://dl.airtable.com/.attachments/9dab8280fd7a3c74eb5695d09303e9bc/bf3c9665/D38EAB93-708B-45B4-A844-3CE75111C822.jpeg",
+                        "filename": "D38EAB93-708B-45B4-A844-3CE75111C822.jpeg",
+                        "size": 168928,
+                        "type": "image/jpeg",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/2e39ccead4b4e7e27f417e016192011d/d8e26ebc",
+                                "width": 56,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/c4ebe237fa3fd920d133b038ab3b9ca9/ecd7ae0e",
+                                "width": 791,
+                                "height": 512
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/4c6ed5c8975e1a17da8babe8cc63c885/7274323a",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "Total": 324113.589653
+            },
+            "createdTime": "2020-04-19T06:51:21.000Z"
+        },
+        {
             "id": "recSasTqpm4YuaYgP",
             "fields": {
-                "Link": "https://thechesedfund.com/eliezerrosenberg89/yisroelmenachembendovidtzvirosenberg",
+                "Name": "Yisroel Menachem Rosenberg",
                 "Picture": [
                     {
                         "id": "att5NuTuMyCsvpwYY",
@@ -250,8 +557,8 @@
                         }
                     }
                 ],
-                "Total": 52808.6710173,
-                "Name": "Yisroel Menachem Rosenberg",
+                "Link": "https://thechesedfund.com/eliezerrosenberg89/yisroelmenachembendovidtzvirosenberg",
+                "Total": 52875.6710173,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/eliezerrosenberg89/yisroelmenachembendovidtzvirosenberg"
             },
@@ -260,7 +567,7 @@
         {
             "id": "recSjroBQHtdK9Amj",
             "fields": {
-                "Link": "https://thechesedfund.com/kleinman/corona-tragedy",
+                "Name": "Aron Hersh Kleinman",
                 "Picture": [
                     {
                         "id": "attL8MoafnADuNmEO",
@@ -287,8 +594,8 @@
                         }
                     }
                 ],
-                "Total": 60549.0326178,
-                "Name": "Aron Hersh Kleinman",
+                "Link": "https://thechesedfund.com/kleinman/corona-tragedy",
+                "Total": 60667.0326178,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/kleinman/corona-tragedy"
             },
@@ -297,7 +604,7 @@
         {
             "id": "recSrQNCm2ZuV14GI",
             "fields": {
-                "Link": "https://thechesedfund.com/fettmanfund/coronatragedy",
+                "Name": "ר' מיכאל צבי פעטמאן ז''ל",
                 "Picture": [
                     {
                         "id": "attXcSszEHXk0OCqy",
@@ -324,8 +631,8 @@
                         }
                     }
                 ],
+                "Link": "https://thechesedfund.com/fettmanfund/coronatragedy",
                 "Total": 375338.039495,
-                "Name": "ר' מיכאל צבי פעטמאן ז''ל",
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/fettmanfund/coronatragedy"
             },
@@ -334,7 +641,7 @@
         {
             "id": "recSuDODEVYxaNxft",
             "fields": {
-                "Link": "https://thechesedfund.com/weiszkerenyesomim/-",
+                "Name": "Reb Alter Boruch Weiss ז\"ל",
                 "Picture": [
                     {
                         "id": "att2AgOwMp38aO1yF",
@@ -361,8 +668,8 @@
                         }
                     }
                 ],
-                "Total": 158648.208718,
-                "Name": "Reb Alter Boruch Weiss ז\"ל",
+                "Link": "https://thechesedfund.com/weiszkerenyesomim/-",
+                "Total": 160229.208718,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/weiszkerenyesomim/-"
             },
@@ -371,7 +678,7 @@
         {
             "id": "recVtGzOPxsbSESmz",
             "fields": {
-                "Link": "https://thechesedfund.com/halbrecht/familyfund",
+                "Name": "אליעזר האלברעכט",
                 "Picture": [
                     {
                         "id": "attmQQiGNmYMgJ6wD",
@@ -398,8 +705,8 @@
                         }
                     }
                 ],
-                "Total": 514265.294584,
-                "Name": "אליעזר האלברעכט",
+                "Link": "https://thechesedfund.com/halbrecht/familyfund",
+                "Total": 514285.294584,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/halbrecht/familyfund"
             },
@@ -408,7 +715,7 @@
         {
             "id": "recXGzz7xqlpkJj3t",
             "fields": {
-                "Link": "https://thechesedfund.com/zevisfund/emergencycampaign",
+                "Name": "Zevi Halberstam",
                 "Picture": [
                     {
                         "id": "attEtp5BnHKdxvGry",
@@ -435,8 +742,8 @@
                         }
                     }
                 ],
-                "Total": 470378.89801,
-                "Name": "Zevi Halberstam",
+                "Link": "https://thechesedfund.com/zevisfund/emergencycampaign",
+                "Total": 470424.89801,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/zevisfund/emergencycampaign"
             },
@@ -445,7 +752,7 @@
         {
             "id": "recdjpiLynLiNdC7X",
             "fields": {
-                "Link": "https://thechesedfund.com/cohenfamily/fund",
+                "Name": "Avrohom Yitzchok Cohen",
                 "Picture": [
                     {
                         "id": "attuLZKmiTWXXfdji",
@@ -472,8 +779,8 @@
                         }
                     }
                 ],
-                "Total": 306533.193818,
-                "Name": "Avrohom Yitzchok Cohen",
+                "Link": "https://thechesedfund.com/cohenfamily/fund",
+                "Total": 336163.193818,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/cohenfamily/fund"
             },
@@ -482,7 +789,7 @@
         {
             "id": "reciuZZdN1oRdMqcR",
             "fields": {
-                "Link": "https://thechesedfund.com/steinbergfamily?team=YWNHOME0406",
+                "Name": "Rabbi Yitzchok Steinberg zt”l",
                 "Picture": [
                     {
                         "id": "atttAdbdD1AQeymrK",
@@ -509,8 +816,8 @@
                         }
                     }
                 ],
-                "Total": 440604.319992,
-                "Name": "Rabbi Yitzchok Steinberg zt”l",
+                "Link": "https://thechesedfund.com/steinbergfamily?team=YWNHOME0406",
+                "Total": 440847.319992,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/steinbergfamily/ZgAOYIzIiL5Mf206Gk7F"
             },
@@ -519,7 +826,7 @@
         {
             "id": "reckTWlwcClKfyoFK",
             "fields": {
-                "Link": "https://www.charidy.com/sandelfamilyfund/",
+                "Name": "ר׳ יואל סאנדעל ע״ה",
                 "Picture": [
                     {
                         "id": "attvbba5wuqhl3OqK",
@@ -546,17 +853,55 @@
                         }
                     }
                 ],
-                "Total": 192323,
-                "Name": "ר׳ יואל סאנדעל ע״ה",
-                "Platform": "charidy"
+                "Link": "https://www.charidy.com/sandelfamilyfund/",
+                "Platform": "charidy",
+                "DataLink": "https://api.charidy.com/api/v1/campaign/8437?extend[]=converted_currency",
+                "Total": 198707
             },
             "createdTime": "2020-04-17T13:41:53.000Z"
         },
         {
+            "id": "recqWx0fzJmqv9Ar6",
+            "fields": {
+                "Name": "Shlomo Cabessa",
+                "Picture": [
+                    {
+                        "id": "attSBMLEwAde1SHOL",
+                        "url": "https://dl.airtable.com/.attachments/8d1307089948825bb9b9f76d05833c66/736907fa/WhatsAppImage2020-04-12at1.52.24AM.jpeg",
+                        "filename": "WhatsApp Image 2020-04-12 at 1.52.24 AM.jpeg",
+                        "size": 13297,
+                        "type": "image/jpeg",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/e36bf9e4ba194416eada73fde2280316/9f57fad2",
+                                "width": 23,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/bf3a74f24ff44fb508ec294684afb0a9/05631bda",
+                                "width": 314,
+                                "height": 493
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/0aa25eb39792a3c4905a88d2cbd6a50c/4eb81bc3",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "Link": "https://thechesedfund.com/cabessa/family",
+                "Submitted By": "help@yadlelev.org",
+                "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/cabessa/family",
+                "Platform": "tcf",
+                "Total": 62753.5907617
+            },
+            "createdTime": "2020-04-19T06:48:19.000Z"
+        },
+        {
             "id": "rectOKfV9ULDNuv6y",
             "fields": {
-                "Submitted By": "jgreen840@gmail.com",
-                "Link": "https://thechesedfund.com/zisharitterman/familyfund",
+                "Name": "R’ Zisha Ritterman",
                 "Picture": [
                     {
                         "id": "attjZW6qgz3rlmWUb",
@@ -583,9 +928,10 @@
                         }
                     }
                 ],
-                "Total": 83621.0340693,
-                "Name": "R’ Zisha Ritterman",
+                "Link": "https://thechesedfund.com/zisharitterman/familyfund",
+                "Total": 85674.6840693,
                 "Platform": "tcf",
+                "Submitted By": "jgreen840@gmail.com",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/zisharitterman/familyfund"
             },
             "createdTime": "2020-04-19T02:13:40.000Z"
@@ -593,7 +939,7 @@
         {
             "id": "recuPXxvk9y2OVCh2",
             "fields": {
-                "Link": "https://www.charidy.com/Kopman",
+                "Name": "מוטי קופמאן",
                 "Picture": [
                     {
                         "id": "attWwwgB173E4soQW",
@@ -620,16 +966,17 @@
                         }
                     }
                 ],
-                "Total": 291109,
-                "Name": "מוטי קופמאן",
-                "Platform": "charidy"
+                "Link": "https://www.charidy.com/Kopman",
+                "Platform": "charidy",
+                "DataLink": "https://api.charidy.com/api/v1/campaign/8444?extend[]=converted_currency",
+                "Total": 293357
             },
             "createdTime": "2020-04-17T20:59:33.000Z"
         },
         {
             "id": "recvEiWrXy7yKxXlY",
             "fields": {
-                "Link": "https://thechesedfund.com/beilesfamilyfund/coronatragedy",
+                "Name": "ר' ירחמיאל בייליס ז''ל",
                 "Picture": [
                     {
                         "id": "attOZwFjgHOMzoskp",
@@ -656,8 +1003,8 @@
                         }
                     }
                 ],
-                "Total": 814403.503483,
-                "Name": "ר' ירחמיאל בייליס ז''ל",
+                "Link": "https://thechesedfund.com/beilesfamilyfund/coronatragedy",
+                "Total": 814597.503483,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/beilesfamilyfund/coronatragedy"
             },
