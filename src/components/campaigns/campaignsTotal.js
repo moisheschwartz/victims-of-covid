@@ -10,7 +10,8 @@ var formatter = new Intl.NumberFormat('en-US', {
 export default function CampaignsTotal(props) {
 
     const { list } = props;
-    const total = list.records.reduce((a, c) => (a + c.fields.Total), 0)
+    const total = list.records.reduce((a, c) => (a + c.fields.Total), 0);
+    const totalDonations = list.records.reduce((a, c) => (a + c.fields.Donations), 0)
 
     return (
         <div style={{ textAlign: "center", fontSize: "30px", margin: "23px 0 " }}>
@@ -25,6 +26,8 @@ export default function CampaignsTotal(props) {
                 decimals={2}
                 prefix="$"
             />}</span>
+            <br />
+            <b style={{ color: "teal", fontSize: "30px" }}>{totalDonations.toLocaleString()} Donors!</b>
             <br />!מי כעמך ישראל
         </div>
     )

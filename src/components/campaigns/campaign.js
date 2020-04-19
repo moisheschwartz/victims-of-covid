@@ -4,6 +4,7 @@ import CampaignImage from './campaignDetails/campaignImage';
 import CampaignName from './campaignDetails/campaignName';
 import CampaignTotal from './campaignDetails/campaignTotal';
 import CampaignLink from './campaignDetails/campaignLink';
+import CampaignDonations from './campaignDetails/campaignDonations';
 export default function Campaign(props) {
 
     const { campaign } = props;
@@ -13,6 +14,8 @@ export default function Campaign(props) {
             <div style={{ padding: "12px" }}>
                 <CampaignName name={campaign.name} />
                 <CampaignTotal total={campaign.total} />
+                <CampaignDonations donations={campaign.donations || "N/A"} />
+
                 <CampaignLink link={campaign.link} />
             </div>
 
