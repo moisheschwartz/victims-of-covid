@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import campaignList from './data/campaignList'
 
-import Campaings from './components/campaigns/campaigns'
-import CampaingsTotal from './components/campaigns/campaingsTotal'
+import Campaigns from './components/campaigns/campaigns'
+import CampaignsTotal from './components/campaigns/campaignsTotal'
 import AppBar from './components/appBar/appBar';
 import FooterBar from './components/footer/footerBar';
 function App() {
@@ -13,8 +13,8 @@ function App() {
   return (
     <div className="App">
       <AppBar />
-      <CampaingsTotal list={campaignList} />
-      <Campaings handleSearch={handleSearch} list={campaignList} searchKeyword={searchKeyword} />
+      <CampaignsTotal list={campaignList} />
+      <Campaigns handleSearch={handleSearch} list={campaignList} searchKeyword={searchKeyword} />
       <FooterBar />
     </div>
   );
