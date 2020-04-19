@@ -4,7 +4,7 @@ export default function FaIcon(props) {
 
 
     return (
-        <span style={{ margin: "2px 6px 0 0", color: "#673ab7" }}>
+        <span className="faIcon">
             {props.children}
         </span>
     )
