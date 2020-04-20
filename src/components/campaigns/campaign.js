@@ -11,7 +11,7 @@ export default function Campaign(props) {
     return (
         <div className="campaign">
             <CampaignImage src={campaign.photo} />
-            <div style={{ padding: "12px" }}>
+            <div style={{ padding: "24px" }}>
                 <CampaignName name={campaign.name} />
                 <CampaignTotal total={campaign.total} />
                 <CampaignDonations donations={campaign.donations || "N/A"} />
