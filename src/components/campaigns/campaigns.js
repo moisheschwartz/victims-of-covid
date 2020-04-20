@@ -14,7 +14,7 @@ export default function Campaigns(props) {
                     {
                         name: c.fields.Name,
                         total: c.fields.Total,
-                        photo: c.fields.Picture[0].url,
+                        photo: c.fields.Picture[0].thumbnails.large.url,
                         link: c.fields.Link,
                         donations: c.fields.Donations
                     }
