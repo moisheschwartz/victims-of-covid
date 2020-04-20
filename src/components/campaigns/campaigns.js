@@ -8,6 +8,7 @@ export default function Campaigns(props) {
         <>
             <div style={{ display: "flex", justifyContent: "center", flexWrap: "wrap" }}>
                 <SearchBar handleSearch={props.handleSearch} />
+                <div style={{ width: "100%", textAlign: "center" }}>{list.records.length} Campaigns</div>
 
                 {list.records.filter(r => r.fields.Name.toLowerCase().includes(searchKeyword.toLowerCase())).map(c => <Campaign campaign={
                     {
