@@ -11,10 +11,10 @@ export default function Campaign(props) {
     return (
         <div className="campaign">
             <CampaignImage src={campaign.photo} />
-            <div style={{ padding: "24px" }}>
+            <div className="campaignDetailContainer">
                 <CampaignName name={campaign.name} />
                 <CampaignTotal total={campaign.total} />
-                <CampaignDonations donations={campaign.donations || "N/A"} />
+                <CampaignDonations donations={campaign.donations.toLocaleString() || "N/A"} />
 
                 <CampaignLink link={campaign.link} />
             </div>
