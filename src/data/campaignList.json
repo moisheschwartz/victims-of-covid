@@ -31,11 +31,11 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/weichbrod/family",
-                "Total": 246644.111318,
+                "Total": 250792.111318,
                 "Platform": "tcf",
                 "Submitted By": "yaakov@lakewoodshopper.com",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/weichbrod/family",
-                "Donations": 3587,
+                "Donations": 3656,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-19T06:52:52.000Z"
@@ -71,10 +71,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/gottlieb/kerenyesomim",
-                "Total": 162548.393232,
+                "Total": 162894.393232,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/gottlieb/kerenyesomim?&per_page=12",
-                "Donations": 3282,
+                "Donations": 3289,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-17T13:37:36.000Z"
@@ -110,10 +110,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/banashfund/help",
-                "Total": 249241.933317,
+                "Total": 249297.933317,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/banashfund/help",
-                "Donations": 4175,
+                "Donations": 4178,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-17T12:45:24.000Z"
@@ -149,11 +149,11 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/baumfamilyemergencyfund/coronatragedy",
-                "Total": 29332.3436364,
+                "Total": 29781.0036364,
                 "Platform": "tcf",
                 "Submitted By": "muttymoseson@gmail.com",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/baumfamilyemergencyfund/coronatragedy",
-                "Donations": 341,
+                "Donations": 347,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-19T06:53:28.000Z"
@@ -189,11 +189,11 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/golshevsky/yesomim",
-                "Total": 88244.7207303,
+                "Total": 88408.7207303,
                 "Platform": "tcf",
                 "Submitted By": "nwonline@gmail.com",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/golshevsky/yesomim",
-                "Donations": 1423,
+                "Donations": 1427,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-19T15:44:30.000Z"
@@ -267,10 +267,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/jungreis/fund",
-                "Total": 38926.6302364,
+                "Total": 39353.6302364,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/jungreis/fund",
-                "Donations": 1095,
+                "Donations": 1107,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-19T06:44:59.000Z"
@@ -306,9 +306,9 @@
                     }
                 ],
                 "Link": "https://www.kupat.org/project/272/",
-                "Total": 139613,
+                "Total": 144493,
                 "Platform": "kupat",
-                "Donations": 2821,
+                "Donations": 2925,
                 "Currency": "ILS"
             },
             "createdTime": "2020-04-21T20:52:21.000Z"
@@ -344,10 +344,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/kupat-hair/dalalfamilyemergencyfundwejustlostmywifefromcovid19",
-                "Total": 44081.9538682,
+                "Total": 44109.9538682,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/kupat-hair/dalalfamilyemergencyfundwejustlostmywifefromcovid19",
-                "Donations": 1048,
+                "Donations": 1050,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-19T20:31:48.000Z"
@@ -383,10 +383,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/chasdeilev/tearsforravnachumcooperah",
-                "Total": 321128.737642,
+                "Total": 322290.737642,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/chasdeilev/tearsforravnachumcooperah",
-                "Donations": 3305,
+                "Donations": 3324,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-19T05:17:32.000Z"
@@ -422,10 +422,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/berg/family",
-                "Total": 429436.909929,
+                "Total": 434025.969929,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/berg/family",
-                "Donations": 4200,
+                "Donations": 4231,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-19T05:18:03.000Z"
@@ -461,10 +461,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/vaad-ha-rabbanim/baruch-dayan-haemes-rebbetzin-porush-tzaddekes-and-mother-of-4-lost-to-corona",
-                "Total": 16079.6316321,
+                "Total": 18547.0466321,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/vaad-ha-rabbanim/baruch-dayan-haemes-rebbetzin-porush-tzaddekes-and-mother-of-4-lost-to-corona",
-                "Donations": 536,
+                "Donations": 603,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-22T15:18:54.000Z"
@@ -500,10 +500,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/support/almana",
-                "Total": 44688.9419557,
+                "Total": 44698.9419557,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/support/almana?&per_page=12",
-                "Donations": 941,
+                "Donations": 942,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-19T13:16:18.000Z"
@@ -577,11 +577,11 @@
                     }
                 ],
                 "Link": "https://www.charidy.com/krye",
-                "Total": 194831,
+                "Total": 199520,
                 "Platform": "charidy",
                 "Submitted By": "mosheyglick@gmail.com",
                 "DataLink": "https://api.charidy.com/api/v1/campaign/8498?extend[]=converted_currency",
-                "Donations": 1440,
+                "Donations": 1532,
                 "Currency": "EUR"
             },
             "createdTime": "2020-04-22T11:05:33.000Z"
@@ -617,10 +617,10 @@
                     }
                 ],
                 "Link": "https://www.charidy.com/coronayesomim",
-                "Total": 295395,
+                "Total": 296273,
                 "Platform": "charidy",
                 "DataLink": "https://api.charidy.com/api/v1/campaign/8348?extend[]=converted_currency",
-                "Donations": 4647,
+                "Donations": 4653,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-13T02:33:42.000Z"
@@ -656,11 +656,11 @@
                     }
                 ],
                 "Link": "https://www.charidy.com/isaacfamilyfund",
-                "Total": 85604,
+                "Total": 88957,
                 "Platform": "charidy",
                 "Submitted By": "bucheryuker@gmail.com",
                 "DataLink": "https://api.charidy.com/api/v1/campaign/8428?extend[]=converted_currency",
-                "Donations": 1134,
+                "Donations": 1147,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-19T06:47:32.000Z"
@@ -696,11 +696,11 @@
                     }
                 ],
                 "Link": "https://charidy.com/gurewicz/gluck",
-                "Total": 101828,
+                "Total": 102023,
                 "Platform": "charidy",
                 "Submitted By": "glickmartin@gmail.com",
                 "DataLink": "https://api.charidy.com/api/v1/campaign/8406?extend[]=converted_currency",
-                "Donations": 1212,
+                "Donations": 1215,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-19T06:50:17.000Z"
@@ -736,11 +736,11 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/fendel/family",
-                "Total": 464868.601861,
+                "Total": 467317.601861,
                 "Platform": "tcf",
                 "Submitted By": "jacobrottenberg@yahoo.com",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/fendel/family",
-                "Donations": 3580,
+                "Donations": 3627,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-19T06:55:54.000Z"
@@ -776,11 +776,11 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/hass/familyfund",
-                "Total": 351615.930047,
+                "Total": 353146.930047,
                 "Platform": "tcf",
                 "Submitted By": "yaakov@lakewoodshopper.com",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/hass/familyfund",
-                "Donations": 4558,
+                "Donations": 4583,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-19T06:51:21.000Z"
@@ -816,10 +816,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/eliezerrosenberg89/yisroelmenachembendovidtzvirosenberg",
-                "Total": 62400.028276,
+                "Total": 62855.028276,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/eliezerrosenberg89/yisroelmenachembendovidtzvirosenberg",
-                "Donations": 1819,
+                "Donations": 1830,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-17T17:47:45.000Z"
@@ -855,10 +855,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/kleinman/corona-tragedy",
-                "Total": 68584.4026178,
+                "Total": 68619.4026178,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/kleinman/corona-tragedy",
-                "Donations": 1171,
+                "Donations": 1175,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-19T02:14:40.000Z"
@@ -894,10 +894,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/fettmanfund/coronatragedy",
-                "Total": 386469.269495,
+                "Total": 386709.269495,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/fettmanfund/coronatragedy",
-                "Donations": 5005,
+                "Donations": 5008,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-17T12:42:28.000Z"
@@ -933,10 +933,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/weiszkerenyesomim/-",
-                "Total": 242716.834173,
+                "Total": 252365.834173,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/weiszkerenyesomim/-",
-                "Donations": 2675,
+                "Donations": 2766,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-17T13:39:32.000Z"
@@ -972,10 +972,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/halbrecht/familyfund",
-                "Total": 536100.120038,
+                "Total": 536325.120038,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/halbrecht/familyfund",
-                "Donations": 7526,
+                "Donations": 7531,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-19T02:18:04.000Z"
@@ -1011,10 +1011,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/zevisfund/emergencycampaign",
-                "Total": 473145.73801,
+                "Total": 473273.73801,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/zevisfund/emergencycampaign",
-                "Donations": 6641,
+                "Donations": 6644,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-17T12:44:16.000Z"
@@ -1050,10 +1050,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/harrel/family",
-                "Total": 7152,
+                "Total": 7447,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/harrel/family",
-                "Donations": 257,
+                "Donations": 269,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-21T18:27:00.000Z"
@@ -1089,10 +1089,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/cohenfamily/fund",
-                "Total": 781556.856776,
+                "Total": 797588.856776,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/cohenfamily/fund",
-                "Donations": 4503,
+                "Donations": 4621,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-17T17:51:23.000Z"
@@ -1128,10 +1128,10 @@
                     }
                 ],
                 "Link": "https://www.charityextra.com/ezagui",
-                "Total": 20573.3866006,
+                "Total": 20936.7735432,
                 "Platform": "charityextra",
                 "DataLink": "https://www.charityextra.com/api/ezagui/values",
-                "Donations": 409,
+                "Donations": 423,
                 "Currency": "EUR"
             },
             "createdTime": "2020-04-21T01:06:20.000Z"
@@ -1167,11 +1167,11 @@
                     }
                 ],
                 "Link": "https://www.charityextra.com/5yesoimim",
-                "Total": 51608.3619177,
+                "Total": 52058.269561,
                 "Platform": "charityextra",
                 "Submitted By": "mosheyglick@gmail.com",
                 "DataLink": "https://www.charityextra.com/api/5yesoimim/values",
-                "Donations": 782,
+                "Donations": 794,
                 "Currency": "EUR"
             },
             "createdTime": "2020-04-19T23:07:32.000Z"
@@ -1207,10 +1207,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/steinbergfamily?team=YWNHOME0406",
-                "Total": 453152.369992,
+                "Total": 453465.369992,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/steinbergfamily/ZgAOYIzIiL5Mf206Gk7F",
-                "Donations": 4677,
+                "Donations": 4682,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-17T17:48:40.000Z"
@@ -1246,11 +1246,11 @@
                     }
                 ],
                 "Link": "https://www.charityextra.com/blochfamily/",
-                "Total": 269408.157632,
+                "Total": 270194.259997,
                 "Platform": "charityextra",
                 "Submitted By": "mendelweinberger0393@gmail.com",
                 "DataLink": "https://www.charityextra.com/api/blochfamily/values",
-                "Donations": 3270,
+                "Donations": 3290,
                 "Currency": "EUR"
             },
             "createdTime": "2020-04-19T21:02:47.000Z"
@@ -1286,10 +1286,10 @@
                     }
                 ],
                 "Link": "https://www.charidy.com/sandelfamilyfund/",
-                "Total": 247163,
+                "Total": 249043,
                 "Platform": "charidy",
                 "DataLink": "https://api.charidy.com/api/v1/campaign/8437?extend[]=converted_currency",
-                "Donations": 3067,
+                "Donations": 3109,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-17T13:41:53.000Z"
@@ -1325,10 +1325,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/rl31/yitzchokzylbermincrl31",
-                "Total": 105142.1,
+                "Total": 105196.1,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/rl31/yitzchokzylbermincrl31",
-                "Donations": 1004,
+                "Donations": 1006,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-20T15:40:26.000Z"
@@ -1364,11 +1364,11 @@
                     }
                 ],
                 "Link": "https://www.charidy.com/bzk",
-                "Total": 90898,
+                "Total": 91259,
                 "Platform": "charidy",
                 "Submitted By": "mr.nachmias@gmail.com",
                 "DataLink": "https://api.charidy.com/api/v1/campaign/8422?extend[]=converted_currency",
-                "Donations": 904,
+                "Donations": 911,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-19T13:22:04.000Z"
@@ -1404,10 +1404,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/morganfund/coronatragedy",
-                "Total": 188091.333818,
+                "Total": 188255.333818,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/morganfund/coronatragedy",
-                "Donations": 1322,
+                "Donations": 1326,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-19T20:32:43.000Z"
@@ -1443,11 +1443,11 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/cabessa/family",
-                "Total": 68894.6407617,
+                "Total": 69186.5907617,
                 "Platform": "tcf",
                 "Submitted By": "help@yadlelev.org",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/cabessa/family",
-                "Donations": 845,
+                "Donations": 848,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-19T06:48:19.000Z"
@@ -1483,10 +1483,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/aloneforpesach/almanahfromcorona",
-                "Total": 60959.0139394,
+                "Total": 60969.0139394,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/aloneforpesach/almanahfromcorona",
-                "Donations": 400,
+                "Donations": 401,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-19T13:14:48.000Z"
@@ -1522,11 +1522,11 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/zisharitterman/familyfund",
-                "Total": 143518.851197,
+                "Total": 144592.771197,
                 "Platform": "tcf",
                 "Submitted By": "jgreen840@gmail.com",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/zisharitterman/familyfund",
-                "Donations": 1849,
+                "Donations": 1871,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-19T02:13:40.000Z"
@@ -1562,10 +1562,10 @@
                     }
                 ],
                 "Link": "https://www.charidy.com/Kopman",
-                "Total": 337758,
+                "Total": 337976,
                 "Platform": "charidy",
                 "DataLink": "https://api.charidy.com/api/v1/campaign/8444?extend[]=converted_currency",
-                "Donations": 3806,
+                "Donations": 3813,
                 "Currency": "USD",
                 "Other Name": "Motty Kopman",
                 "Other Campaings": "https://thechesedfund.com/mottykopmanfamily"
@@ -1603,10 +1603,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/beilesfamilyfund/coronatragedy",
-                "Total": 832658.366104,
+                "Total": 833173.366104,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/beilesfamilyfund/coronatragedy",
-                "Donations": 8750,
+                "Donations": 8756,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-17T12:43:36.000Z"
@@ -1642,11 +1642,11 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/gantz/fund",
-                "Total": 145719.18,
+                "Total": 148520.18,
                 "Platform": "tcf",
                 "Submitted By": "chayatziv@gmail.com",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/gantz/fund",
-                "Donations": 898,
+                "Donations": 919,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-19T16:24:33.000Z"
@@ -1682,10 +1682,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/chededshalemesroziner/emergency",
-                "Total": 18971.6854545,
+                "Total": 18992.6854545,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/chededshalemesroziner/emergency",
-                "Donations": 353,
+                "Donations": 355,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-19T07:45:01.000Z"
@@ -1721,10 +1721,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/falik/fund?team=KHWA",
-                "Total": 26690.4840909,
+                "Total": 36232.0640909,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/falik/fund",
-                "Donations": 371,
+                "Donations": 511,
                 "Currency": "USD"
             },
             "createdTime": "2020-04-22T19:04:49.000Z"
