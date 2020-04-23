@@ -10,7 +10,7 @@ export default function Campaigns(props) {
                 <SearchBar handleSearch={props.handleSearch} />
                 <div style={{ width: "100%", textAlign: "center" }}>{list.records.length} Campaigns</div>
 
-                {list.records.filter(r => r.fields.Name.toLowerCase().includes(searchKeyword.toLowerCase())).map(c => <Campaign campaign={
+                {list.records.filter(r => r.fields.Name.toLowerCase().includes(searchKeyword.toLowerCase())).map(c => <Campaign key={c.fields.Link} campaign={
                     {
                         name: c.fields.Name,
                         total: c.fields.Total,

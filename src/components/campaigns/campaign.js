@@ -1,5 +1,4 @@
 import React from 'react'
-import Campaigns from './campaigns';
 import CampaignImage from './campaignDetails/campaignImage';
 import CampaignName from './campaignDetails/campaignName';
 import CampaignTotal from './campaignDetails/campaignTotal';

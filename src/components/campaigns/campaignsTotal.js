@@ -2,10 +2,6 @@ import React from 'react'
 
 import CountUp from 'react-countup';
 
-var formatter = new Intl.NumberFormat('en-US', {
-    style: 'currency',
-    currency: 'USD',
-});
 
 export default function CampaignsTotal(props) {
 

@@ -9,10 +9,7 @@ export default function CampaignLink(props) {
 
     const { link } = props;
 
-    useEffect(() => {
-        ReactGA.initialize('UA-163913932-1');
 
-    });
     return (
         <div className={"campaignLink"}>
 
