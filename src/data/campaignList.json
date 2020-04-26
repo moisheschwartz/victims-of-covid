@@ -31,11 +31,11 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/weichbrod/family",
-                "Total": 277682.455868,
+                "Total": 282362.455868,
                 "Platform": "tcf",
                 "Submitted By": "yaakov@lakewoodshopper.com",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/weichbrod/family",
-                "Donations": 4087,
+                "Donations": 4120,
                 "Currency": "USD",
                 "Goal": 750000
             },
@@ -72,10 +72,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/gottlieb/kerenyesomim",
-                "Total": 165689.905585,
+                "Total": 165730.905585,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/gottlieb/kerenyesomim?&per_page=12",
-                "Donations": 3360,
+                "Donations": 3363,
                 "Currency": "USD",
                 "Goal": 500000
             },
@@ -112,10 +112,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/banashfund/help",
-                "Total": 254143.223317,
+                "Total": 254212.223317,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/banashfund/help",
-                "Donations": 4254,
+                "Donations": 4259,
                 "Currency": "USD",
                 "Goal": 360000
             },
@@ -152,11 +152,11 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/baumfamilyemergencyfund/coronatragedy",
-                "Total": 34931.5536364,
+                "Total": 35166.5536364,
                 "Platform": "tcf",
                 "Submitted By": "muttymoseson@gmail.com",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/baumfamilyemergencyfund/coronatragedy",
-                "Donations": 406,
+                "Donations": 411,
                 "Currency": "USD",
                 "Goal": 250000
             },
@@ -193,11 +193,11 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/golshevsky/yesomim",
-                "Total": 91158.7838328,
+                "Total": 91231.7838328,
                 "Platform": "tcf",
                 "Submitted By": "nwonline@gmail.com",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/golshevsky/yesomim",
-                "Donations": 1485,
+                "Donations": 1488,
                 "Currency": "USD",
                 "Goal": 600000
             },
@@ -234,10 +234,11 @@
                     }
                 ],
                 "Link": "https://www.dryveup.com/friedrich/",
-                "Total": 1022915,
+                "Total": 1023921,
                 "Platform": "dryveup",
                 "Donations": 9832,
-                "Currency": "USD"
+                "Currency": "USD",
+                "Goal": 1100000
             },
             "createdTime": "2020-04-17T12:46:38.000Z"
         },
@@ -272,10 +273,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/jungreis/fund",
-                "Total": 44410.5602364,
+                "Total": 44643.2002364,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/jungreis/fund",
-                "Donations": 1198,
+                "Donations": 1207,
                 "Currency": "USD",
                 "Goal": 500000
             },
@@ -312,9 +313,9 @@
                     }
                 ],
                 "Link": "https://www.kupat.org/project/272/",
-                "Total": 193300,
+                "Total": 194076,
                 "Platform": "kupat",
-                "Donations": 3914,
+                "Donations": 3933,
                 "Currency": "ILS",
                 "Goal": 0
             },
@@ -351,10 +352,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/kupat-hair/dalalfamilyemergencyfundwejustlostmywifefromcovid19",
-                "Total": 45110.2425999,
+                "Total": 45183.2425999,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/kupat-hair/dalalfamilyemergencyfundwejustlostmywifefromcovid19",
-                "Donations": 1080,
+                "Donations": 1083,
                 "Currency": "USD",
                 "Goal": 100000
             },
@@ -391,10 +392,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/chasdeilev/tearsforravnachumcooperah",
-                "Total": 358714.794914,
+                "Total": 361261.614914,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/chasdeilev/tearsforravnachumcooperah",
-                "Donations": 3788,
+                "Donations": 3835,
                 "Currency": "USD",
                 "Goal": 1000000
             },
@@ -431,11 +432,11 @@
                     }
                 ],
                 "Link": "https://www.charidy.com/Wolff/503168482",
-                "Total": 178907,
+                "Total": 284990,
                 "Platform": "charidy",
                 "Submitted By": "Zalmen4@gmail.com",
                 "DataLink": "https://api.charidy.com/api/v1/campaign/8538?extend[]=converted_currency",
-                "Donations": 1504,
+                "Donations": 2445,
                 "Goal": 1082050
             },
             "createdTime": "2020-04-26T13:36:40.000Z"
@@ -471,10 +472,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/berg/family",
-                "Total": 486070.049929,
+                "Total": 489258.709929,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/berg/family",
-                "Donations": 4651,
+                "Donations": 4669,
                 "Currency": "USD",
                 "Goal": 900000
             },
@@ -511,10 +512,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/vaad-ha-rabbanim/baruch-dayan-haemes-rebbetzin-porush-tzaddekes-and-mother-of-4-lost-to-corona",
-                "Total": 52915.9361785,
+                "Total": 57840.5346331,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/vaad-ha-rabbanim/baruch-dayan-haemes-rebbetzin-porush-tzaddekes-and-mother-of-4-lost-to-corona",
-                "Donations": 1584,
+                "Donations": 1715,
                 "Currency": "USD",
                 "Goal": 500000
             },
@@ -551,10 +552,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/support/almana",
-                "Total": 45792.9419557,
+                "Total": 46497.9419557,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/support/almana?&per_page=12",
-                "Donations": 955,
+                "Donations": 957,
                 "Currency": "USD",
                 "Goal": 100000
             },
@@ -594,7 +595,8 @@
                 "Total": 233386,
                 "Platform": "dryveup",
                 "Donations": 4669,
-                "Currency": "USD"
+                "Currency": "USD",
+                "Goal": 400000
             },
             "createdTime": "2020-04-19T06:44:55.000Z"
         },
@@ -629,11 +631,11 @@
                     }
                 ],
                 "Link": "https://www.charidy.com/krye",
-                "Total": 425746,
+                "Total": 439457,
                 "Platform": "charidy",
                 "Submitted By": "mosheyglick@gmail.com",
                 "DataLink": "https://api.charidy.com/api/v1/campaign/8498?extend[]=converted_currency",
-                "Donations": 3730,
+                "Donations": 3911,
                 "Currency": "EUR",
                 "Goal": 618500
             },
@@ -670,10 +672,10 @@
                     }
                 ],
                 "Link": "https://www.charidy.com/coronayesomim",
-                "Total": 301856,
+                "Total": 301897,
                 "Platform": "charidy",
                 "DataLink": "https://api.charidy.com/api/v1/campaign/8348?extend[]=converted_currency",
-                "Donations": 4684,
+                "Donations": 4686,
                 "Currency": "USD",
                 "Goal": 360000
             },
@@ -710,11 +712,11 @@
                     }
                 ],
                 "Link": "https://www.charidy.com/isaacfamilyfund",
-                "Total": 102660,
+                "Total": 103165,
                 "Platform": "charidy",
                 "Submitted By": "bucheryuker@gmail.com",
                 "DataLink": "https://api.charidy.com/api/v1/campaign/8428?extend[]=converted_currency",
-                "Donations": 1230,
+                "Donations": 1233,
                 "Currency": "USD",
                 "Goal": 150000
             },
@@ -751,11 +753,11 @@
                     }
                 ],
                 "Link": "https://charidy.com/gurewicz/gluck",
-                "Total": 103487,
+                "Total": 103492,
                 "Platform": "charidy",
                 "Submitted By": "glickmartin@gmail.com",
                 "DataLink": "https://api.charidy.com/api/v1/campaign/8406?extend[]=converted_currency",
-                "Donations": 1243,
+                "Donations": 1244,
                 "Currency": "USD",
                 "Goal": 720000
             },
@@ -792,11 +794,11 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/fendel/family",
-                "Total": 489801.921861,
+                "Total": 490890.921861,
                 "Platform": "tcf",
                 "Submitted By": "jacobrottenberg@yahoo.com",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/fendel/family",
-                "Donations": 3920,
+                "Donations": 3936,
                 "Currency": "USD",
                 "Goal": 600000
             },
@@ -833,11 +835,11 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/hass/familyfund",
-                "Total": 364249.750047,
+                "Total": 364508.750047,
                 "Platform": "tcf",
                 "Submitted By": "yaakov@lakewoodshopper.com",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/hass/familyfund",
-                "Donations": 4777,
+                "Donations": 4786,
                 "Currency": "USD",
                 "Goal": 500000
             },
@@ -874,10 +876,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/eliezerrosenberg89/yisroelmenachembendovidtzvirosenberg",
-                "Total": 65118.028276,
+                "Total": 65154.848276,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/eliezerrosenberg89/yisroelmenachembendovidtzvirosenberg",
-                "Donations": 1899,
+                "Donations": 1902,
                 "Currency": "USD",
                 "Goal": 100000
             },
@@ -914,10 +916,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/kleinman/corona-tragedy",
-                "Total": 71516.4026178,
+                "Total": 71569.4026178,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/kleinman/corona-tragedy",
-                "Donations": 1241,
+                "Donations": 1245,
                 "Currency": "USD",
                 "Goal": 0
             },
@@ -954,10 +956,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/fettmanfund/coronatragedy",
-                "Total": 395932.819495,
+                "Total": 397010.819495,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/fettmanfund/coronatragedy",
-                "Donations": 5143,
+                "Donations": 5166,
                 "Currency": "USD",
                 "Goal": 750000
             },
@@ -994,10 +996,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/weiszkerenyesomim/-",
-                "Total": 275664.908718,
+                "Total": 275925.908718,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/weiszkerenyesomim/-",
-                "Donations": 3022,
+                "Donations": 3028,
                 "Currency": "USD",
                 "Goal": 500000
             },
@@ -1034,10 +1036,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/halbrecht/familyfund",
-                "Total": 538590.120038,
+                "Total": 538648.120038,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/halbrecht/familyfund",
-                "Donations": 7569,
+                "Donations": 7571,
                 "Currency": "USD",
                 "Goal": 1000000
             },
@@ -1074,11 +1076,11 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/sholomchaimovitz/coronatragedyhelpoutaalmunahthatsleftalone",
-                "Total": 19848.33,
+                "Total": 19878.33,
                 "Platform": "tcf",
                 "Submitted By": "geerauch@icloud.com",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/sholomchaimovitz/coronatragedyhelpoutaalmunahthatsleftalone",
-                "Donations": 317,
+                "Donations": 319,
                 "Currency": "USD",
                 "Goal": 200000
             },
@@ -1115,10 +1117,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/zevisfund/emergencycampaign",
-                "Total": 475600.72801,
+                "Total": 475761.72801,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/zevisfund/emergencycampaign",
-                "Donations": 6679,
+                "Donations": 6685,
                 "Currency": "USD",
                 "Goal": 0
             },
@@ -1155,10 +1157,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/harrel/family",
-                "Total": 9679,
+                "Total": 9700,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/harrel/family",
-                "Donations": 343,
+                "Donations": 345,
                 "Currency": "USD",
                 "Goal": 50000
             },
@@ -1195,10 +1197,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/cohenfamily/fund",
-                "Total": 919079.962231,
+                "Total": 923533.022231,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/cohenfamily/fund",
-                "Donations": 5303,
+                "Donations": 5347,
                 "Currency": "USD",
                 "Goal": 1000000
             },
@@ -1235,10 +1237,10 @@
                     }
                 ],
                 "Link": "https://www.charityextra.com/ezagui",
-                "Total": 30828.2246439,
+                "Total": 31256.5315766,
                 "Platform": "charityextra",
                 "DataLink": "https://www.charityextra.com/api/ezagui/values",
-                "Donations": 668,
+                "Donations": 681,
                 "Currency": "EUR",
                 "Goal": 123431.392712
             },
@@ -1275,11 +1277,11 @@
                     }
                 ],
                 "Link": "https://www.charityextra.com/5yesoimim",
-                "Total": 107216.210652,
+                "Total": 108688.747167,
                 "Platform": "charityextra",
                 "Submitted By": "mosheyglick@gmail.com",
                 "DataLink": "https://www.charityextra.com/api/5yesoimim/values",
-                "Donations": 1302,
+                "Donations": 1344,
                 "Currency": "EUR",
                 "Goal": 0
             },
@@ -1316,10 +1318,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/steinbergfamily?team=YWNHOME0406",
-                "Total": 455588.589992,
+                "Total": 456106.589992,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/steinbergfamily/ZgAOYIzIiL5Mf206Gk7F",
-                "Donations": 4727,
+                "Donations": 4729,
                 "Currency": "USD",
                 "Goal": 600000
             },
@@ -1356,11 +1358,11 @@
                     }
                 ],
                 "Link": "https://www.charityextra.com/blochfamily/",
-                "Total": 339120.345594,
+                "Total": 340085.579085,
                 "Platform": "charityextra",
                 "Submitted By": "mendelweinberger0393@gmail.com",
                 "DataLink": "https://www.charityextra.com/api/blochfamily/values",
-                "Donations": 4044,
+                "Donations": 4068,
                 "Currency": "EUR",
                 "Goal": 370294.178137
             },
@@ -1397,10 +1399,10 @@
                     }
                 ],
                 "Link": "https://www.charidy.com/sandelfamilyfund/",
-                "Total": 265533,
+                "Total": 265737,
                 "Platform": "charidy",
                 "DataLink": "https://api.charidy.com/api/v1/campaign/8437?extend[]=converted_currency",
-                "Donations": 3493,
+                "Donations": 3502,
                 "Currency": "USD",
                 "Goal": 500000
             },
@@ -1437,10 +1439,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/rl31/yitzchokzylbermincrl31",
-                "Total": 105763.1,
+                "Total": 105831.1,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/rl31/yitzchokzylbermincrl31",
-                "Donations": 1027,
+                "Donations": 1029,
                 "Currency": "USD",
                 "Goal": 100000
             },
@@ -1477,11 +1479,11 @@
                     }
                 ],
                 "Link": "https://www.charidy.com/bzk",
-                "Total": 102563,
+                "Total": 102569,
                 "Platform": "charidy",
                 "Submitted By": "mr.nachmias@gmail.com",
                 "DataLink": "https://api.charidy.com/api/v1/campaign/8422?extend[]=converted_currency",
-                "Donations": 1096,
+                "Donations": 1097,
                 "Currency": "USD",
                 "Goal": 250000
             },
@@ -1518,10 +1520,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/morganfund/coronatragedy",
-                "Total": 189213.883818,
+                "Total": 189291.883818,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/morganfund/coronatragedy",
-                "Donations": 1346,
+                "Donations": 1349,
                 "Currency": "USD",
                 "Goal": 250000
             },
@@ -1558,11 +1560,11 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/cabessa/family",
-                "Total": 75008.0007617,
+                "Total": 75046.0007617,
                 "Platform": "tcf",
                 "Submitted By": "help@yadlelev.org",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/cabessa/family",
-                "Donations": 878,
+                "Donations": 880,
                 "Currency": "USD",
                 "Goal": 250000
             },
@@ -1639,11 +1641,11 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/zisharitterman/familyfund",
-                "Total": 152833.702106,
+                "Total": 153602.032106,
                 "Platform": "tcf",
                 "Submitted By": "jgreen840@gmail.com",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/zisharitterman/familyfund",
-                "Donations": 2020,
+                "Donations": 2026,
                 "Currency": "USD",
                 "Goal": 300000
             },
@@ -1680,11 +1682,11 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/kerenyesomimmerzbach/kerenyesomimmerzbachmotherof11",
-                "Total": 6400.37009346,
+                "Total": 8621.37009346,
                 "Platform": "tcf",
                 "Submitted By": "merzbachyesomim@gmail.com",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/kerenyesomimmerzbach/kerenyesomimmerzbachmotherof11?",
-                "Donations": 52,
+                "Donations": 90,
                 "Currency": "USD",
                 "Goal": 1000000
             },
@@ -1721,10 +1723,10 @@
                     }
                 ],
                 "Link": "https://www.charidy.com/Kopman",
-                "Total": 353268,
+                "Total": 353692,
                 "Platform": "charidy",
                 "DataLink": "https://api.charidy.com/api/v1/campaign/8444?extend[]=converted_currency",
-                "Donations": 3902,
+                "Donations": 3908,
                 "Currency": "USD",
                 "Other Name": "Motty Kopman",
                 "Other Campaings": "https://thechesedfund.com/mottykopmanfamily",
@@ -1763,10 +1765,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/beilesfamilyfund/coronatragedy",
-                "Total": 836508.207923,
+                "Total": 836668.537923,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/beilesfamilyfund/coronatragedy",
-                "Donations": 8861,
+                "Donations": 8869,
                 "Currency": "USD",
                 "Goal": 1000000
             },
@@ -1803,11 +1805,11 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/gantz/fund",
-                "Total": 159962.35,
+                "Total": 160562.35,
                 "Platform": "tcf",
                 "Submitted By": "chayatziv@gmail.com",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/gantz/fund",
-                "Donations": 1024,
+                "Donations": 1026,
                 "Currency": "USD",
                 "Goal": 500000
             },
@@ -1884,10 +1886,10 @@
                     }
                 ],
                 "Link": "https://thechesedfund.com/falik/fund",
-                "Total": 124029.906939,
+                "Total": 126517.746939,
                 "Platform": "tcf",
                 "DataLink": "https://us-central1-tcf-backend-prod.cloudfunctions.net/causes/falik/fund",
-                "Donations": 1605,
+                "Donations": 1644,
                 "Currency": "USD",
                 "Goal": 600000
             },
