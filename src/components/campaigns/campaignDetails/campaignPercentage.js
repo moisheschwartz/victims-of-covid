@@ -16,7 +16,7 @@ export default function CampaignPercentage(props) {
         <>
             <div style={{ padding: "6PX 0" }}>
                 <div className="progressBar">
-                    <div className="progressBarPercent" style={{ width: `${percentage}%` }} ></div>
+                    <div className="progressBarPercent" style={{ width: `${percentage}%` }} ><span className="progressBarPercent">{percentage > 0 ? `${percentage.toFixed()}%` : ""}</span></div>
                 </div>
             </div>
         </>

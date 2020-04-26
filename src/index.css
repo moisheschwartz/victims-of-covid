@@ -91,6 +91,14 @@ body{
 .progressBar > div {
   background-color: teal;
   /* Adjust with JavaScript */
-  height: 10px;
+  height: 12px;
   border-radius: 10px;  
+  text-align: center;
+}
+
+.progressBarPercent{
+  color:#fff ;
+  font-size: 10px;
+  line-height: 12px;
+  font-weight: bold;
 }
