@@ -4,6 +4,7 @@ import CampaignName from './campaignDetails/campaignName';
 import CampaignTotal from './campaignDetails/campaignTotal';
 import CampaignLink from './campaignDetails/campaignLink';
 import CampaignDonations from './campaignDetails/campaignDonations';
+import CampaignPercentage from './campaignDetails/campaignPercentage';
 export default function Campaign(props) {
 
     const { campaign } = props;
@@ -17,6 +18,8 @@ export default function Campaign(props) {
 
                 <CampaignLink link={campaign.link} />
             </div>
+            <CampaignPercentage percentage={campaign.percentage} />
+
 
 
         </div>

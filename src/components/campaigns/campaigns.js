@@ -18,6 +18,7 @@ export default function Campaigns(props) {
                         photo: c.fields.Picture[0].thumbnails.large.url,
                         link: c.fields.Link,
                         donations: c.fields.Donations,
+                        percentage: c.fields.Goal ? (c.fields.Total / c.fields.Goal) * 100 : 0
                     }
                 } />)}
             </div>
