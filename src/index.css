@@ -65,6 +65,7 @@ body{
 }
 .campaignLink a{
  font-size: 12px;
+ word-break: break-all;
 }
 .campaignImage{
    max-width: 100%;
