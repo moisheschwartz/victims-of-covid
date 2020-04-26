@@ -21,13 +21,18 @@ export default function CampaignName(props) {
                 </FaIcon>
                 {formatter.format(total)}
             </div>
-            <div style={{ padding: "6PX 0" }}>
 
-                <FaIcon>
-                    <FaBullseye />
-                </FaIcon>
-                {goal && formatter.format(goal)}
-            </div>
+            {goal > 0 &&
+                <>
+                    <div style={{ padding: "6PX 0" }}>
+                        <FaIcon>
+                            <FaBullseye />
+                        </FaIcon>
+                        {goal && formatter.format(goal)
+                        } </div>
+
+                </>}
+
         </>
     )
 }
