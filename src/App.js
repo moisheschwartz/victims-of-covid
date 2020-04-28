@@ -1,4 +1,6 @@
 import React, { useState } from 'react';
+
+
 import campaignList from './data/campaignList'
 
 import Campaigns from './components/campaigns/campaigns'
@@ -11,12 +13,13 @@ function App() {
     setSearchKeyword(e.target.value)
   }
   return (
-    <div className="App">
-      <AppBar />
-      <CampaignsTotal list={campaignList} />
-      <Campaigns handleSearch={handleSearch} list={campaignList} searchKeyword={searchKeyword} />
-      <FooterBar />
-    </div>
+      <div className="App">
+        <AppBar />
+        <CampaignsTotal list={campaignList} />
+        <Campaigns handleSearch={handleSearch} list={campaignList} searchKeyword={searchKeyword} />
+        <FooterBar />
+      </div>
+
   );
 }
 
