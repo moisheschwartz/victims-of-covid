@@ -24,7 +24,7 @@ export default function Campaigns(props) {
               
                 <div style={{ width: "100%", textAlign: "center", marginTop: "20px"}}>{list.records.length} Campaigns</div>
 
-                {list.records.filter(r => r.fields.Name.toLowerCase().includes(searchKeyword.toLowerCase())).sort((a, b) => {
+                {list.records.filter(r => r.fields.Name.toLowerCase().includes(searchKeyword.toLowerCase()) || (r.fields.OtherName && r.fields.OtherName.toLowerCase().includes(searchKeyword.toLowerCase()))).sort((a, b) => {
                     console.log(b.fields.Goal);
                     
                     switch(order){
