@@ -25,7 +25,6 @@ export default function Campaigns(props) {
                 <div style={{ width: "100%", textAlign: "center", marginTop: "20px"}}>{list.records.length} Campaigns</div>
 
                 {list.records.filter(r => r.fields.Name.toLowerCase().includes(searchKeyword.toLowerCase()) || (r.fields.OtherName && r.fields.OtherName.toLowerCase().includes(searchKeyword.toLowerCase()))).sort((a, b) => {
-                    console.log(b.fields.Goal);
                     
                     switch(order){
                         case "total-htl" : 
@@ -41,7 +40,6 @@ export default function Campaigns(props) {
                         case "goal-htl":
                             let percentageA = a.fields.Goal ? (a.fields.Total / a.fields.Goal * 100) : 0;
                             let percentageB = b.fields.Goal ? (b.fields.Total / b.fields.Goal * 100) : 0;
-                            console.log(a.fields.Name, percentageA,percentageB);
                             return percentageA > percentageB && a.fields.Goal ?  -1 : 1
                         // default:
                         //     return b.fields.Total > a.fields.Total ? -1 : 1
