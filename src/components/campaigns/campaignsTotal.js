@@ -5,7 +5,7 @@ import CountUp from 'react-countup';
 
 export default function CampaignsTotal(props) {
 
-    const { list } = props;
+    const { list,isLoaded } = props;
     const total = list.records.reduce((a, c) => (a + c.fields.Total), 0);
     const totalDonations = list.records.reduce((a, c) => (a + c.fields.Donations), 0)
 
@@ -15,8 +15,8 @@ export default function CampaignsTotal(props) {
 
 
             Together We Raised:  <br /><span className={"totalRaised"}>{<CountUp
-                start={0}
-                end={total}
+                start={isLoaded ?  16500000: 0}
+                end={isLoaded ? total : total}
                 duration={2}
                 separator=","
                 decimals={2}

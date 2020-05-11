@@ -3,7 +3,7 @@ import Campaign from './campaign'
 import SearchBar from '../other/searchBar';
 export default function Campaigns(props) {
 
-    const { list, searchKeyword } = props;
+    const { list, searchKeyword,isLoaded } = props;
 
     const [order,setOrder] = useState("sort-htl")
 
@@ -46,7 +46,7 @@ export default function Campaigns(props) {
 
                     }
                                         
-                }).map(c => <Campaign key={c.fields.Link} campaign={
+                }).map(c => <Campaign key={c.fields.Link} isLoaded={isLoaded} campaign={
                     {
                         name: c.fields.Name,
                         total: c.fields.Total,
