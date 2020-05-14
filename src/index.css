@@ -1,39 +1,33 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
-*{
-  font-family: 'Open Sans', sans-serif;
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap");
+* {
+  font-family: "Open Sans", sans-serif;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
-body{
+body {
   background: #efefef;
 }
-.totalRaised{
+.totalRaised {
   background-color: #93939326;
-    padding: 17px 26px;
-    border-radius: 12px;
-    margin: 12px;
-    display: inline-block;
-    color: teal;
-    font-weight: bold;
+  padding: 17px 26px;
+  border-radius: 12px;
+  margin: 12px;
+  display: inline-block;
+  color: teal;
+  font-weight: bold;
 }
 
 @media only screen and (min-width: 600px) {
-  .totalRaised{
+  .totalRaised {
     font-size: 65px;
   }
 }
 
-@media only screen and (max-width: 600px) {
-  .totalRaised{
-    font-size: 40px;
-  }
+.campaignLink a {
 }
 
-
-
-
-.aButton{
+.aButton {
   display: inline-block;
   text-decoration: none;
   color: #fff;
@@ -41,74 +35,121 @@ body{
   padding: 8px;
   margin-top: 4px;
 }
-.campaign{
+.campaign {
   width: 400px;
-  margin: 24px; 
-  border-radius: 12px; 
+  margin: 24px;
+  border-radius: 12px;
   overflow: hidden;
   background-color: #fff;
   box-shadow: 2px 2px 9px #00000024;
   position: relative;
 }
 
-.campaign .campaignDetailContainer{
+.campaign .campaignDetailContainer {
   padding: 24px;
   position: relative;
 }
 
-.campaignName{
+.campaignName {
   font-weight: bold;
   padding: 12px 0 6px 0;
 }
-.campaignLink{
-  padding: 6px 0;
+.campaignLink {
+  display: flex;
+  padding: 12px 0;
+  justify-content: space-between;
+  margin: 0 -7px;
 }
-.campaignLink a{
- font-size: 12px;
- word-break: break-all;
+.campaignLink a,
+.copyLink {
+  transition: all 0.5s;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 12px;
+  word-break: break-all;
+  padding: 6px 12px;
+  margin: 0 7px;
+  border: 2px solid teal;
 }
-.campaignImage{
-   max-width: 100%;
-   height: 265px;
-    background-color: #f7f7f7
+.campaignLink a:hover,
+.copyLink:hover {
+  background-color: #00808012;
+  color: teal;
 }
-.faIcon{
-   margin: 2px 6px 0 0;
-    color: teal
+
+.campaignLink a {
+  text-decoration: none;
+  width: 70%;
+  font-weight: bold;
+  background-color: teal;
+  color: #fff;
+  text-transform: uppercase;
+}
+.copyLink {
+  width: 30%;
+  cursor: pointer;
+  color: teal;
+}
+.campaignImage {
+  max-width: 100%;
+  height: 265px;
+  background-color: #f7f7f7;
+}
+.faIcon {
+  margin: 2px 6px 0 0;
+  color: teal;
 }
 
 .progressBar {
   background-color: #efefef;
-  border-radius:0 0 12px 12px;
+  border-radius: 0 0 12px 12px;
   /* (height of inner div) / 2 + padding */
   padding: 4px;
   position: absolute;
   right: 0;
   left: 0;
-  bottom:0;
-
+  bottom: 0;
 }
 
 .progressBar > div {
   background-color: teal;
   /* Adjust with JavaScript */
   height: 12px;
-  border-radius: 10px;  
+  border-radius: 10px;
   text-align: center;
 }
 
-.progressBarPercent{
-  color:#fff ;
+.progressBarPercent {
+  color: #fff;
   font-size: 10px;
   line-height: 12px;
   font-weight: bold;
 }
 
-select{
-  background: url(data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0Ljk1IDEwIj48ZGVmcz48c3R5bGU+LmNscy0xe2ZpbGw6I2ZmZjt9LmNscy0ye2ZpbGw6IzQ0NDt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPmFycm93czwvdGl0bGU+PHJlY3QgY2xhc3M9ImNscy0xIiB3aWR0aD0iNC45NSIgaGVpZ2h0PSIxMCIvPjxwb2x5Z29uIGNsYXNzPSJjbHMtMiIgcG9pbnRzPSIxLjQxIDQuNjcgMi40OCAzLjE4IDMuNTQgNC42NyAxLjQxIDQuNjciLz48cG9seWdvbiBjbGFzcz0iY2xzLTIiIHBvaW50cz0iMy41NCA1LjMzIDIuNDggNi44MiAxLjQxIDUuMzMgMy41NCA1LjMzIi8+PC9zdmc+) no-repeat 95% 50%;
-	-moz-appearance: none; 
-	-webkit-appearance: none; 
-	appearance: none;
-    /* and then whatever styles you want*/
-	height: 44px; 
+select {
+  background: url(data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0Ljk1IDEwIj48ZGVmcz48c3R5bGU+LmNscy0xe2ZpbGw6I2ZmZjt9LmNscy0ye2ZpbGw6IzQ0NDt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPmFycm93czwvdGl0bGU+PHJlY3QgY2xhc3M9ImNscy0xIiB3aWR0aD0iNC45NSIgaGVpZ2h0PSIxMCIvPjxwb2x5Z29uIGNsYXNzPSJjbHMtMiIgcG9pbnRzPSIxLjQxIDQuNjcgMi40OCAzLjE4IDMuNTQgNC42NyAxLjQxIDQuNjciLz48cG9seWdvbiBjbGFzcz0iY2xzLTIiIHBvaW50cz0iMy41NCA1LjMzIDIuNDggNi44MiAxLjQxIDUuMzMgMy41NCA1LjMzIi8+PC9zdmc+)
+    no-repeat 95% 50%;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  appearance: none;
+  /* and then whatever styles you want*/
+  height: 44px;
+}
+
+@media only screen and (max-width: 600px) {
+  .totalRaised {
+    font-size: 40px;
+  }
+}
+@media only screen and (max-width: 400px) {
+  .campaignLink a,
+  .copyLink {
+    padding: 6px 3px;
+  }
+  .campaignLink a {
+    width: 60%;
+  }
+  .copyLink {
+    width: 40%;
+  }
 }
