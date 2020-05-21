@@ -10,7 +10,7 @@ export default function CampaignDonations(props) {
             <FaIcon>
                 <FaDonate />
             </FaIcon>
-            {donations} donors
+            {donations != 0 ? `${donations} donors` : "N/A"}
         </div>
     )
 }

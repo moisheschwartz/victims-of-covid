@@ -13,8 +13,8 @@ export default function Campaign(props) {
             <CampaignImage src={campaign.photo} />
             <div className="campaignDetailContainer">
                 <CampaignName name={campaign.name} />
-                {campaign.total > 0  && <CampaignTotal total={campaign.total} goal={campaign.goal} isLoaded={isLoaded} />}
-                {campaign.donations > 0 && <CampaignDonations donations={campaign.donations.toLocaleString() || "N/A"} />}
+                { <CampaignTotal total={campaign.total} goal={campaign.goal} isLoaded={isLoaded} />}
+                { <CampaignDonations donations={campaign.donations.toLocaleString()} />}
 
                 <CampaignLink link={campaign.link} />
             </div>

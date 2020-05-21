@@ -11,7 +11,7 @@ var formatter = new Intl.NumberFormat('en-US', {
 
 export default function CampaignName(props) {
 
-    const { total, goal,isLoaded } = props;
+    const { total, goal, isLoaded } = props;
     return (
         <>
             <div style={{ padding: "6PX 0" }}>
@@ -19,19 +19,19 @@ export default function CampaignName(props) {
                 <FaIcon>
                     <FaDollarSign />
                 </FaIcon>
-                {isLoaded ? formatter.format(total) : "Loading..."}
+                {total ? isLoaded ? formatter.format(total) : "Loading..." : "N/A"}
             </div>
 
-            {goal > 0 &&
-                <>
-                    <div style={{ padding: "6PX 0" }}>
-                        <FaIcon>
-                            <FaBullseye />
-                        </FaIcon>
-                        {goal && formatter.format(goal)
-                        } </div>
 
-                </>}
+
+            <div style={{ padding: "6PX 0" }}>
+                <FaIcon>
+                    <FaBullseye />
+                </FaIcon>
+                {goal ? formatter.format(goal) : "N/A"
+                } </div>
+
+
 
         </>
     )
